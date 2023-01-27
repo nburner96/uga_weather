@@ -1,0 +1,11 @@
+# List of locations to scrape weather from
+# Type location as it appears in the url for that site
+locations:
+  - PENFIELD
+  - WATHORT
+  - MIDVILLE
+  - PLAINS
+
+# Name of output CSV file in directory
+# If none exists, script will create one with specified name
+out: weather.csv
